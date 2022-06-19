@@ -17,9 +17,9 @@ Watches files as you make changes to your `index.html` within `public` folder
 
 Uses `vite` to minify the Project files for Production 
 
-**[ Optional ]**
+**[ Optional ]**<br>
 `npm run preview`
 
 Check Production build on your system before deployment
-
+<br>
 >Note: npm commands only work if you have [Node](https://nodejs.org/en/) installed on your computer
